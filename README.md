@@ -4,13 +4,16 @@
 
 初始页面
 
-![1719661244887](C:\Users\ZQ\AppData\Roaming\Typora\typora-user-images\1719661244887.png)
+![image](https://github.com/iszquan/learning_logs/assets/172034668/a0bbab0d-8cc5-40e9-9998-5ad1966c86cd)
+
 
 主题页面
 
-![1719661276203](C:\Users\ZQ\AppData\Roaming\Typora\typora-user-images\1719661276203.png)
+![image](https://github.com/iszquan/learning_logs/assets/172034668/7c1c55b3-961c-4a01-8952-30308c5d27dc)
+
 
 详情页
 
-![1719661299282](C:\Users\ZQ\AppData\Roaming\Typora\typora-user-images\1719661299282.png)
+![image](https://github.com/iszquan/learning_logs/assets/172034668/efe98c5b-4fbe-4bed-bc2c-372a8b19d2d9)
+
 

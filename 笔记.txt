@@ -1,0 +1,23 @@
+1.
+django-admin startproject projectname创建项目		
+python manage.py migrate		创建数据库		迁移可以理解为数据库架构的版本控制系统，应用makemigrations
+python manage.py makemigrations appname		定义如何修改数据库，将模型打包进独立的迁移文件，类似提交修改
+
+python manage.py runserver 	启动服务
+
+project：
+asgi.py	asgi驱动的网页服务器网关接口
+wsgi.py   wsgi驱动的网页服务器网关接口
+urls.py	网页目录
+settings.py   设置
+
+app：
+models.py	定义在应用程序中管理的数据		类
+admin.site.register()		通过网站管理模型
+models.ForeignKey(关联的模型, on_delete=models.CASCADE) 	外键，关联到另一模型，ondelete为级联删除
+ModelName.objects.all()	查询集
+
+
+
+修改项目管理的数据的步骤：修改models，应用app，对app调用makemigrations，migrate使Django迁移
+
